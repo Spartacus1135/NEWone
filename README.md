@@ -17,4 +17,22 @@ Google Account
 ![image](https://user-images.githubusercontent.com/107085826/181581015-e24fd260-75bf-4352-b081-dbe71c0f96f0.png)
 
 
+2. Click "Next" - DO NOT CLICK LINKS AND DOWNLOAD ANYTHING
+
+3. Click "Authorize"
+
+
+![image](https://user-images.githubusercontent.com/107085826/181581949-ae6e9955-5b06-4429-9bb2-639cde65df67.png)
+
+
+4. Copy the PowerShell code to clipboard 
+![image](https://user-images.githubusercontent.com/107085826/181587525-f73ad169-a02b-4c0b-b4a6-edf3cc4bf43f.png)
+
+
+5. Create a fork of this repository. 
+
+![image](https://user-images.githubusercontent.com/107085826/181589224-a802334a-a86a-4d7e-942c-054d8f2169e6.png)
+
+
+
 
