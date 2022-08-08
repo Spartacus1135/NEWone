@@ -5,13 +5,18 @@ If you enjoy this share please join us in the discord server https://discord.gg/
 We have Paypal, Venmo, American Express, Netspend, Stockpile, Gift Card Genrators & Tons more! Also when/if if this version gets patched I will post the new method in the group. 
 
 Contact Links:
-http://dynastyaio.sellix.io/
+
+http://DynastyAIO.sellix.io/
+
+
 https://discord.gg/mSVS4SX962
+
+
 https://t.me/DynastyOTP
 
 
 
-Now, lets get to the free rdp stuff.
+>>> Now, lets get to the free rdp stuff.
 
 
 
