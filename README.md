@@ -14,6 +14,9 @@ https://discord.gg/mSVS4SX962
 
 https://t.me/DynastyOTP
 
+![image](https://user-images.githubusercontent.com/107085826/183325137-43606fd4-a625-4e7b-beba-17896db8ac41.png)
+
+
 
 
 
