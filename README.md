@@ -24,14 +24,14 @@ VIDEO TUTORIAL:
 https://user-images.githubusercontent.com/107085826/183317403-7e517f0f-d61d-4799-b26d-ce6dd4014a28.mp4
 
 
-Requirements:
+>>> Requirements:
 
 Github Account
 
 Google Account
 
 
-How to use
+>>> How to use
 
 Just Fork this Repository, Go to Actions tab, Select the Windows-CRD workflow. Then select Run Workflow fill the following data in CRD Code and your Pin in the fields. After that, Press Start.
 
